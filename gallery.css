@@ -10,11 +10,9 @@
 div.picture {
     margin: 1vw;
     border: 0.1vw solid #fff;
-    /*float: left;*/
     width: 10vw;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
-    /*-webkit-filter: brightness(100%);*/
 }
 
 div.picture:hover {
